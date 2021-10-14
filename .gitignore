@@ -1,1 +1,8 @@
 /glicko2.iml
+/.idea/
+/data.csv
+/players.csv
+/out/
+/ratings0.3.csv
+/ratings0.5.csv
+/ratings0.7.csv
